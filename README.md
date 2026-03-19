@@ -102,7 +102,7 @@ If you do not provide `-o` option, the default names `id_<key-type>-<i>` and `id
 
 ## UI Usage
 
-1. Open the app;
+1. Open the app; it
 
 2. Choose the key type; Recommend to keep the default value (`Ed25519`), then click the button `Generate Key Pair`;
 
